@@ -333,15 +333,15 @@ body {
   border-radius: 0px 0px 4px 4px;
 }
 .team-card {
-  padding-left: 10px;
-  padding-right: 10px;
+  /* padding-left: 10px;
+  padding-right: 10px; */
   padding-top: 30px;
   padding-bottom: 30px;
 }
 .team-card-title {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.87;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -350,7 +350,7 @@ body {
 .team-card-desc {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.87;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--accent-color2);
